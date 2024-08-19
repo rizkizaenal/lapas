@@ -20,4 +20,5 @@ class UserAkses
         }
         return redirect('admin');
     }
+    
 }
